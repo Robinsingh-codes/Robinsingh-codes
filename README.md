@@ -1,3 +1,9 @@
+<p align="left">
+ <a href="https://git.io/typing-svg" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?size=25&color=1A9AF7&lines=Hey+There!;My+self+Robin+Singh;Welcome+to+my+GitHub;I'm+a+ML+developer;I'm+a+web+developer;I'm+a+problem+solver;">
+  </a>
+</p>
+
 - 👋 Hi, I’m @Robinsingh-codes
 - 👀 I’m interested in ... programming and project development- android and web technologies.
 - 🌱 I’m currently learning ...  B Tech CSE.
